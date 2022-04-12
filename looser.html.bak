@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="winner_looser.css" type ="text/css">
+		<link href='https://fonts.googleapis.com/css?family=Orbitron' rel='stylesheet' type='text/css'>
+
+		<title>The Volleyball Quiz -- Lier Martinez de Morentin -- 40496253</title>
+	</head>
+	
+	<body>
+	
+		<header>You have lost the game. But not worries, just keep trying and imporving!!</header>
+	
+	
+		<h1>LOOSER</h1>
+		
+		
+		
+		
+		<div class= "scoreboard">
+			<div class="first-num">25</div>
+			<div class ="colon">:</div>
+			<div class="second-num">2</div>
+
+		</div>
+		
+		<p class="home-text">HOME</p>
+		
+		<p class="guest-text">GUEST</p>
+		
+		<button>RESTART</button>
+		
+		<footer> &copy; 2020 - Lier Martinez de Morentin - all rigths reserved</footer>
+		
+	
+	</body>
+	
+</html>
