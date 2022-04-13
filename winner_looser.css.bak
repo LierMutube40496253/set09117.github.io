@@ -1,0 +1,202 @@
+@font-face{
+ font-family:'digital-clock-font';
+ src: url('put_the_location_to_your_font.ttf or .otf');
+}
+
+html {
+	height: 100%;
+ }
+
+
+body{
+/*page design*/
+	background-color: #d8dbe2;
+	min-height: 100% ;
+}
+
+.situation-image{
+	
+/*position*/
+	
+  position: absolute;
+  left: 30px;
+  width: 350px;
+  height: 170px;
+/*box design*/
+  border: 3px solid black;
+  padding: 10px;
+  background-color: #C38D9E;
+	
+}
+
+
+header {
+/*position*/
+  position: absolute;
+  margin-left: 5em;
+  margin-right: 5em;
+  left: 0;
+  right: 0;
+  top: 15%;
+  
+ /*box design*/
+  border: 3px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: #58a4b0;
+  
+  width: auto;
+  height: auto;
+  
+
+  
+/*text design*/
+  font-size: 30px;
+  color: black;
+  text-align: center;
+}
+
+h1{
+	/*position*/
+  position: absolute;
+  margin-left: 100px;
+  margin-right: 100px;
+  left: 0;
+  right: 0;
+  top: 16%;
+  
+/*box design*/
+  border: 3px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: #58a4b0;
+  
+  width: auto;
+  height: auto;
+  
+/*text design*/
+
+  font-size: 150px;
+  color: black;
+  text-align: center;
+	
+}
+.scoreboard{
+/*position*/
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	bottom: 7%;
+
+/*flexbox*/
+	display: flex;
+	flex-direction: row;
+
+    
+/*design*/
+   width: 450px;
+   height: 200px;
+   border: 3px solid black;
+   
+   background-color: #373f51;
+	
+}
+
+.first-num{
+	
+/*position*/
+	margin-top: 60px;
+	margin-left: 35px;
+	margin-right: 0px;
+	margin-bottom:0px;
+
+/*design*/ 
+	background-color: black;
+	width: 150px;
+	height: 110px;
+	  
+	text-align: center;
+	font-size: 90px;
+	color: red;
+	font-family: 'Orbitron', sans-serif;
+}
+
+.second-num{
+
+/*position*/
+	margin-top: 60px;
+	margin-left: 0px;
+	margin-right: 35px;
+	margin-bottom: 0px;
+  
+/*design*/ 
+	background-color: black;
+	width: 150px;
+	height: 110px;
+	
+	text-align: center;
+	font-size: 90px;
+	color: red;
+	font-family: 'Orbitron', sans-serif;
+}
+
+.colon{
+/*position*/
+	margin-top: 60px;
+
+
+/*design*/
+	width: 80px;
+	text-align: center;
+	line-height: 75px;
+	font-size: 50px;
+	color: black;
+}
+
+.home-text{
+/*position*/
+	position: absolute;
+	left: 587px;
+	bottom: 23%;
+  
+/*design*/
+	font-size: 35px;
+	font-family: 'Orbitron', sans-serif;
+	color: white;
+	
+}
+
+.guest-text{
+/*position*/
+	position: absolute;
+	left: 805px;
+	bottom: 23%;
+
+/*design*/  
+	font-size: 35px;
+	font-family: 'Orbitron', sans-serif;
+	color: white;
+	
+}
+
+.restart{
+/*position*/
+	position: absolute;
+	right: 30px;
+	bottom: 5%;
+   
+/*design*/  
+   background-color: #E8A87C;
+	border: 3px solid black;
+	border-radius: 12px;
+	display: inline-block;
+
+	
+	text-align: center;
+	padding: 15px 32px;
+	color: black;
+	font-size: 26px;
+
+}

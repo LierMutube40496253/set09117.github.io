@@ -1,0 +1,86 @@
+html {
+	height: 100%;
+ }
+
+
+body{
+/*page design*/
+	background-color: #d8dbe2;
+	min-height: 100% ;
+}
+
+.title{
+/*text positioning*/ 
+	padding: 40px;
+	margin: 20px;
+	background-color:#58a4b0;
+/*box design*/ 
+	border: 5px solid black;
+	border-radius: 12px;
+ /*f design*/  
+	line-height: 150px ;
+	color: black;
+	font-weight: bold ;
+	font-size: 6em ;
+	text-align: center ;
+	font-family: "Times New Roman", Times, serif;
+ 
+}
+
+ .explanation{
+	 
+/*text positioning*/ 
+	padding: 20px ;
+	width: 60%;
+	height: auto;
+	margin: auto;
+	 
+
+/*font design*/
+	color: black;
+	font-size: 30px ;
+	text-align: center ;
+	font-family: "Times New Roman", Times;
+}
+
+.start{
+	
+	height: auto;
+	position: relative;
+
+}
+
+.net-image{
+	
+/*image positioning*/
+	display: block;
+	margin: auto;
+  
+}
+/*cant use flexbox becauae the items have to be in tope of each other*/
+
+.start-button{
+	
+/*button positioning*/
+	margin: 0;
+	position: absolute;
+	top: 44%;
+	left: 740px;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+  
+ /*button configuration*/
+	background-color: #58a4b0;
+	border: 3px solid black;
+	color: black;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 26px;
+	width: 205px;
+	height: 70;
+
+
+}
+
