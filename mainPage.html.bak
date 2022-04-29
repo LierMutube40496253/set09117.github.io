@@ -38,7 +38,7 @@
 		
 		
 		<div  class="start">
-			<img src="images/mainPage/net2.png" class="net-image">
+			<img src="images/mainPage/net2.PNG" class="net-image">
 			<button type="button" class="start-button" id="start-button">START</button>
 		</div>
 		
