@@ -28,7 +28,7 @@
 		<div class="question-answer">
 			<h2 class="question" id="question">You are serving. You have already done two aces serving player in 5. Now you see their libero is closer to him . Who do you serve now?</h2>
 			
-			<h2 class="explanation" id="explanation">The best option is to keep serving the same player. If he has already missed twice is most likely to miss the next one so the most secure thing to do is keep serving him. </h2>
+			<h2 class="explanation" id="explanation">The best option is to keep serving the same player. If he has already missed twice, he is most likely to miss the next one so the most secure thing to do is to keep serving to him. </h2>
 		</div>
 		
 		<div class="answers">
