@@ -28,21 +28,21 @@
 		<div class="question-answer">
 			<h2 class="question" id="question">When do we call an invasion</h2>
 			
-			<h2 class="explanation" id="explanation">If our feet pass to the other side even if we don’t touch the other team's player it will be counted as an invasion. It doesn’t matter if we pass any other part of our  body as long as we don’t bother any of the other team's players (even if it is really rare for this to happen).  Lastly, Touching the line with the feet doesn’t mean passing to the other side.</h2>
+			<h2 class="explanation" id="explanation">If our feet pass to the other side even if we don’t touch the other team's player it will be counted as an invasion. It doesn’t matter if we pass any other part of our body as long as we don’t bother any of the other team's players (even if it is really rare for this to happen).  Lastly, Touching the line with the feet doesn’t mean passing to the other side.</h2>
 		</div>
 		
 		<div class="answers">
 			<div class="answer1" id="answer1">
 			
 				
-				<h3 class = "answer1-text">When any part of the feet passes the line behind the net  even if we don’t bother the other team players  </h3>
+				<h3 class = "answer1-text">When any part of the feet passes the line behind the net even if we don't bother the other teams players  </h3>
 				
 			</div>
 			
 			<div class="answer2" id="answer2">
 			
 				
-				<h3 class = "answer2-text">When any part of our body passes the line behind the net even if we not bother the other team players </h3>
+				<h3 class = "answer2-text">When any part of our body passes the line behind the net even if we don't bother the other teams players </h3>
 				
 			</div>
 			
@@ -57,7 +57,7 @@
 			<div class="answer4" id="answer4">
 			
 				
-				<h3 class = "answer4-text"> When our feet touches the line behind the net that decides both courts</h3>
+				<h3 class = "answer4-text"> When our feet touches the line behind the net that divides both courts</h3>
 				
 			</div>
 		</div>

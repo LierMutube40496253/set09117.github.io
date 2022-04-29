@@ -26,23 +26,23 @@
 		
 		
 		<div class="question-answer">
-			<h2 class="question" id="question">How do the passers have to positionate when the other team is serving?</h2>
+			<h2 class="question" id="question">How do the passers have to position when the other team is serving?</h2>
 			
-			<h2 class="explanation" id="explanation">They should all be all on the same line , but to respect the rotations , the player that is on front court ( player passing  in 5 or in 1)  has to be closer to the net than the other two players that are in backcourt.</h2>
+			<h2 class="explanation" id="explanation">They should all be all on the same line, but to respect the rotations, the player that is on front court ( player passing  in 5 or in 1) has to be closer to the net than the other two players that are in backcourt.</h2>
 		</div>
 		
 		<div class="answers">
 			<div class="answer1" id="answer1">
 			
 				
-				<h3 class = "answer1-text">J Player in 6 two steps back from the others and player passing in 5 one foreword from the one in 1 </h3>
+				<h3 class = "answer1-text"> Player in 6 two steps back from the others and player passing in 5 one forward from the one in 1 </h3>
 				
 			</div>
 			
 			<div class="answer2" id="answer2">
 			
 				
-				<h3 class = "answer2-text">All on the on the same line </h3>
+				<h3 class = "answer2-text">All on the same line </h3>
 				
 			</div>
 			
@@ -50,7 +50,7 @@
 			<div class="answer3" id="answer3">
 				
 				
-				<h3 class = "answer3-text"> All of them on the same line , besides the player passing in 5  or the player passing in 1, that should do an small step forward</h3>
+				<h3 class = "answer3-text"> All of them on the same line, besides the player passing in 5 or the player passing in 1, they should do a small step forward</h3>
 				
 			</div>
 			
