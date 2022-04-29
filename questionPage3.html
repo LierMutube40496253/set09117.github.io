@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+
+
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="questionPage.css" type ="text/css">
+		<link href='https://fonts.googleapis.com/css?family=Orbitron' rel='stylesheet' type='text/css'>
+
+		<title>The Volleyball Quiz -- Lier Martinez de Morentin -- 40496253</title>
+	</head>
+	
+	
+	<body>
+	
+		<!--- 
+		<audio id= "audio1" controls="controls" onloadeddata="setHalfVolume()">
+			<source src="audios\background.mp3"  type="audio/mp3">
+		</audio>
+		--->
+		
+		
+		<div class="situation">
+			<img src="images/questionPage/campo.png" class="situation-image">
+		</div>
+		
+		
+		<div class="question-answer">
+			<h2 class="question" id="question">The other team setter jumped just before  he was going to set like he was going to pass the ball to our side( second touch) . What should you do?  </h2>
+			
+			<h2 class="explanation" id="explanation">If you notice in the picture there are already three players on the front court side (3 attackers) which means the setter's starting position is at the backcourt , which also means that he can’t pass it to the other side on the second touch if he is on the frontcourt. So there is no need to block him .</h2>
+		</div>
+		
+		<div class="answers">
+			<div class="answer1" id="answer1">
+			
+				
+				<h3 class = "answer1-text">Jump and block him passing your hand to the other side to avoid him passing the ball </h3>
+				
+			</div>
+			
+			<div class="answer2" id="answer2">
+			
+				
+				<h3 class = "answer2-text">Just jump in front of him in case he is going to pass it </h3>
+				
+			</div>
+			
+			
+			<div class="answer3" id="answer3">
+				
+				
+				<h3 class = "answer3-text">Jump between the setter and the middle hitter in case he want to do a short so you can reach both </h3>
+				
+			</div>
+			
+			<div class="answer4" id="answer4">
+			
+				
+				<h3 class = "answer4-text">Don’t jump to block the setter and wait to see where is he going to set </h3>
+				
+			</div>
+		</div>
+		
+		<!--- 
+		<p class= "answer1-letter">A</p>
+		<p class= "answer2-letter">B</p>
+		<p class= "answer3-letter">C</p>
+		<p class= "answer4-letter">D</p>
+		
+		-->
+
+		<div class="timer">
+			<img src="images/questionPage/ball.jpg" class="timer-image">
+			<div class="timer-num" id="timer-num"></div>
+		</div>
+
+		<a href="mainPage.html"><button type="button" class="home-button" id="home-button">HOME</button></a>
+		
+		<a><button type="button" class="report-button" id="report-button">REPORT</button></a>
+		
+	
+		
+		<div class="reportPage" id="reportPage">
+			
+			<div class="email" id="email">
+				<input type="text" class="email-name" id="email-name"></input>
+			</div>
+			
+			<div class= "reportReason" id="reportReason">
+			
+				<textarea type="text" class="reportReason-text" id="reportReason-text"></textarea>
+				
+			</div>
+			
+			<div class= "send-X" id="send-X">
+			
+				<button type="send" class="send-button" id="send-button">SEND</button>
+				
+				<button type="X" class="X" id="X">X</button>
+				
+			</div>
+			
+			
+			
+		
+		</div>
+		
+		
+		<div class= "scoreboard">
+			<div class="first-num" id="first-num"></div>
+			<div class ="colon">:</div>
+			<div class="second-num" id="second-num"></div>
+		</div>
+		
+		<!--- 
+		<p class="home-text">HOME</p>
+		
+		<p class="guest-text">GUEST</p>
+		-->
+		
+		<a><button type="button" class="next-button" id="next-button">NEXT QUESTION</button></a>
+		
+		<script src="questionPage3.js"></script>
+		
+	</body>
+	
+</html>

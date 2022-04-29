@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+
+
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="questionPage.css" type ="text/css">
+		<link href='https://fonts.googleapis.com/css?family=Orbitron' rel='stylesheet' type='text/css'>
+
+		<title>The Volleyball Quiz -- Lier Martinez de Morentin -- 40496253</title>
+	</head>
+	
+	
+	<body>
+	
+		<!--- 
+		<audio id= "audio1" controls="controls" onloadeddata="setHalfVolume()">
+			<source src="audios\background.mp3"  type="audio/mp3">
+		</audio>
+		--->
+		
+		
+		<div class="situation">
+			<img src="images/questionPage/campo.png" class="situation-image">
+		</div>
+		
+		
+		<div class="question-answer">
+			<h2 class="question" id="question">The other team is going to pass a free ball , you are the player in position 6, where should you move now? </h2>
+			
+			<h2  class="explanation" id="explanation">When the other team is throwing a freeball  the priority is to  avoid the setter and hitters passing in it, due to not having a player defending in position 1 and you being the closer defender from that position , you will have to get closer to position 1.</h2>
+		</div>
+		
+		<div class="answers">
+			<div class="answer1" id="answer1">
+			
+				
+				<h3 class = "answer1-text">Between 5 and 6</h3>
+			</div>
+			
+			<div class="answer2" id="answer2">
+			
+				
+				<h3 class = "answer2-text">Between 6 and 1</h3>
+			</div>
+			
+			
+			<div class="answer3" id="answer3">
+				
+				
+				<h3 class = "answer3-text">Stay in 6 </h3>
+			</div>
+			
+			<div class="answer4" id="answer4">
+			
+				
+				<h3 class = "answer4-text">You don’t have to take any freeballs </h3>
+			</div>
+		</div>
+		
+		<!--- 
+		<p class= "answer1-letter">A</p>
+		<p class= "answer2-letter">B</p>
+		<p class= "answer3-letter">C</p>
+		<p class= "answer4-letter">D</p>
+		--->
+
+		<div class="timer">
+			<img src="images/questionPage/ball.jpg" class="timer-image">
+			<div class="timer-num" id="timer-num"></div>
+		</div>
+
+		<a href="mainPage.html"><button type="button" class="home-button" id="home-button">HOME</button></a>
+		
+		<a><button type="button" class="report-button" id="report-button">REPORT</button></a>
+		
+	
+		
+		<div class="reportPage" id="reportPage">
+			
+			<div class="email" id="email">
+				<input type="text" class="email-name" id="email-name"></input>
+			</div>
+			
+			<div class= "reportReason" id="reportReason">
+			
+				<textarea type="text" class="reportReason-text" id="reportReason-text"></textarea>
+				
+			</div>
+			
+			<div class= "send-X" id="send-X">
+			
+				<button type="send" class="send-button" id="send-button">SEND</button>
+				
+				<button type="X" class="X" id="X">X</button>
+				
+			</div>
+			
+			
+			
+		
+		</div>
+		
+		
+		<div class= "scoreboard">
+			<div class="first-num" id="first-num"></div>
+			<div class ="colon">:</div>
+			<div class="second-num" id="second-num"></div>
+		</div>
+		
+		<!--- 
+		<p class="home-text">HOME</p>
+		
+		<p class="guest-text">GUEST</p>
+		--->
+		
+		
+		<a><button type="button" class="next-button" id="next-button">NEXT QUESTION</button></a>
+		
+		<script src="questionPage5.js"></script>
+		
+	</body>
+	
+</html>

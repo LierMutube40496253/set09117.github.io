@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+
+
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="questionPage.css" type ="text/css">
+		<link href='https://fonts.googleapis.com/css?family=Orbitron' rel='stylesheet' type='text/css'>
+
+		<title>The Volleyball Quiz -- Lier Martinez de Morentin -- 40496253</title>
+	</head>
+	
+	
+	<body>
+	
+		<!--- 
+		<audio id= "audio1" controls="controls" onloadeddata="setHalfVolume()">
+			<source src="audios\background.mp3"  type="audio/mp3">
+		</audio>
+		--->
+		
+		
+		<div class="situation">
+			<img src="images/questionPage/campo.png" class="situation-image">
+		</div>
+		
+		
+		<div class="question-answer">
+			<h2 class="question" id="question">The other team is serving but you can’t see the guy who is serving as the other team players are blocking your view by moving their hand in the net . What should you do? </h2>
+			
+			<h2 id="explanation">If the other team blockers are just moving their hands,  that’s completely allowed ( even if it is not frowned upon ) . The best thing to do is just to move a couple of steps , as is not allowed to change position. Lastly, telling them to stop wouldn’t do anything .</h2>
+		</div>
+		
+		<div class="answers">
+			<div class="answer1" id="answer1">
+			
+				
+				<h3 class = "answer1-text">Let the referee now as that’s not allowed in volleyball</h3>
+			</div>
+			
+			<div class="answer2" id="answer2">
+			
+				
+				<h3 class = "answer2-text">Tell the other team players to stop doing it.</h3>
+			</div>
+			
+			
+			<div class="answer3" id="answer3">
+				
+				
+				<h3 class = "answer3-text">Move your position some steps so you can again see the person serving </h3>
+			</div>
+			
+			<div class="answer4" id="answer4">
+			
+				
+				<h3 class = "answer4-text">Change your position with one of your teammates as that way they won’t be able to block your view anymore</h3>
+			</div>
+		</div>
+		
+		<!--- 
+		<p class= "answer1-letter">A</p>
+		<p class= "answer2-letter">B</p>
+		<p class= "answer3-letter">C</p>
+		<p class= "answer4-letter">D</p>
+		--->
+
+		<div class="timer">
+			<img src="images/questionPage/ball.jpg" class="timer-image">
+			<div class="timer-num" id="timer-num"></div>
+		</div>
+
+		<a href="mainPage.html"><button type="button" class="home-button" id="home-button">HOME</button></a>
+		
+		<a><button type="button" class="report-button" id="report-button">REPORT</button></a>
+		
+	
+		
+		<div class="reportPage" id="reportPage">
+			
+			<div class="email" id="email">
+				<input type="text" class="email-name" id="email-name"></input>
+			</div>
+			
+			<div class= "reportReason" id="reportReason">
+			
+				<textarea type="text" class="reportReason-text" id="reportReason-text"></textarea>
+				
+			</div>
+			
+			<div class= "send-X" id="send-X">
+			
+				<button type="send" class="send-button" id="send-button">SEND</button>
+				
+				<button type="X" class="X" id="X">X</button>
+				
+			</div>
+			
+			
+			
+		
+		</div>
+		
+		
+		<div class= "scoreboard">
+			<div class="first-num" id="first-num"></div>
+			<div class ="colon">:</div>
+			<div class="second-num" id="second-num"></div>
+		</div>
+		
+		<!--- 
+		<p class="home-text">HOME</p>
+		
+		<p class="guest-text">GUEST</p>
+		--->
+		
+		
+		<a><button type="button" class="next-button" id="next-button">NEXT QUESTION</button></a>
+		
+		<script src="questionPage8.js"></script>
+		
+	</body>
+	
+</html>
