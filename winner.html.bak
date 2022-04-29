@@ -19,9 +19,9 @@
 		
 		
 		<div class= "scoreboard">
-			<div class="first-num"></div>
+			<div class="first-num" id="first-num"></div>
 			<div class ="colon">:</div>
-			<div class="second-num"></div>
+			<div class="second-num" id="second-num"></div>
 
 		</div>
 		
