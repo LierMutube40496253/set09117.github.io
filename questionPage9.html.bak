@@ -28,7 +28,7 @@
 		<div class="question-answer">
 			<h2 class="question" id="question">When the other team hit the ball, it touched our team's block and now is going out. What should you do? </h2>
 			
-			<h2 id="explanation">The block counts like a touch , so if it goes out it's a point for the other team. Anyways it does not count as a real pass so it won’t sum up to our max count of three touches. This means that there is no need of setting the ball on that “first” touch.</h2>
+			<h2 class="explanation" id="explanation">The block counts like a touch , so if it goes out it's a point for the other team. Anyways it does not count as a real pass so it won’t sum up to our max count of three touches. This means that there is no need of setting the ball on that “first” touch.</h2>
 		</div>
 		
 		<div class="answers">

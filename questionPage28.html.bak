@@ -28,7 +28,7 @@
 		<div class="question-answer">
 			<h2 class="question" id="question"> What happens if the ball touches the upper part of the net?</h2>
 			
-			<h2 id="explanation">Nothing happens, the point keeps going as it should.</h2>
+			<h2 class="explanation" id="explanation">Nothing happens, the point keeps going as it should.</h2>
 		</div>
 		
 		<div class="answers">

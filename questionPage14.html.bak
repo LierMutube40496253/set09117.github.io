@@ -28,7 +28,7 @@
 		<div class="question-answer">
 			<h2 class="question" id="question"> Is  the libero allowed to pipe ( jump from behind the 3 letters line but hit the ball in front of it)? </h2>
 			
-			<h2 id="explanation">No, the libero is not allowed to touch  the ball  above the net high in front of the 3 meters line.</h2>
+			<h2 class="explanation" id="explanation">No, the libero is not allowed to touch  the ball  above the net high in front of the 3 meters line.</h2>
 		</div>
 		
 		<div class="answers">

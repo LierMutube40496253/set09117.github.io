@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="mainPage.css" type ="text/css">
+		
+		<title>The Volleyball Quiz -- Lier Martinez de Morentin -- 40496253</title>
+	</head>
+	
+	<body>
+		
+		
+	
+		<h1 class="title" id ="title">THE VOLLEYBALL QUIZ</h1>
+		
+		<summary class="explanation">
+			<p>
+			The quiz is going to recreate a volleyball game. You will become into a player within a
+			team, which is playing against another team. Every time a question is answered correctly
+			your team will sum up a point, otherwise the other team will. The first team to get to 15
+			points wins.
+			</p>
+			
+			<p>
+			Some of the questions will place you in a volleyball situation. This type of questions will also be supported with an upper view of the
+			court, which will include your position (in red) and the one of all the players on court. 
+			
+			Other question will focus on game rules and general knowledge of it.
+			</p>
+			
+			<p>
+			There will be four different answers. The user will have to choose the correct one in a limited amount of time, depending on the complexity of the question the time will vary.
+			Once the question is answered the correct answer will be highlighted, and an explanation of why that is the correct answer will be shown.
+			All explanations are really important, as they will give hint for other questions to be answered correctly and will help understandig how the sport works.
+			</p>
+		</summary>
+		
+		
+		
+		<div  class="start">
+			<img src="images/mainPage/net2.png" class="net-image">
+			<button type="button" class="start-button" id="start-button">START</button>
+		</div>
+		
+		
+		<script src="mainPage.js"></script>
+		
+	
+	</body>
+	
+</html>

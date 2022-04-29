@@ -28,7 +28,7 @@
 		<div class="question-answer">
 			<h2 class="question" id="question"> You are hitting and you see how the ball first touched the other team player's block (hands) and the ball fell out of the court. Whose point is it?</h2>
 			
-			<h2 id="explanation">If the the block touches the other teams player and then goes out that means THEY were the ones throwing the ball out, so it’s our teams point</h2>
+			<h2  class="explanation" id="explanation">If the the block touches the other teams player and then goes out that means THEY were the ones throwing the ball out, so it’s our teams point</h2>
 		</div>
 		
 		<div class="answers">

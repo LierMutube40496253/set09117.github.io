@@ -28,7 +28,7 @@
 		<div class="question-answer">
 			<h2 class="question" id="question">With which part from your body is not allowed to touch the ball</h2>
 			
-			<h2 id="explanation">You can touch the ball with any part from your body </h2>
+			<h2 class="explanation" id="explanation">You can touch the ball with any part from your body </h2>
 		</div>
 		
 		<div class="answers">

@@ -28,7 +28,7 @@
 		<div class="question-answer">
 			<h2 class="question" id="question">What happens if you touch the net right after the ball touches the other teams court </h2>
 			
-			<h2 id="explanation">If the balls touches the court floor  it doesn’t matter what happens afterwards  , the point will be for the team that hitted the ball </h2>
+			<h2 class="explanation" id="explanation">If the balls touches the court floor  it doesn’t matter what happens afterwards  , the point will be for the team that hitted the ball </h2>
 		</div>
 		
 		<div class="answers">

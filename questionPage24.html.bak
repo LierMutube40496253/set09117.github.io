@@ -28,7 +28,7 @@
 		<div class="question-answer">
 			<h2 class="question" id="question">When do we call an invasion</h2>
 			
-			<h2 id="explanation">If our feet pass to the other side even if we don’t touch the other team's player it will be counted as an invasion. It doesn’t matter if we pass any other part of our  body as long as we don’t bother any of the other team's players (even if it is really rare for this to happen).  Lastly, Touching the line with the feet doesn’t mean passing to the other side.</h2>
+			<h2 class="explanation" id="explanation">If our feet pass to the other side even if we don’t touch the other team's player it will be counted as an invasion. It doesn’t matter if we pass any other part of our  body as long as we don’t bother any of the other team's players (even if it is really rare for this to happen).  Lastly, Touching the line with the feet doesn’t mean passing to the other side.</h2>
 		</div>
 		
 		<div class="answers">

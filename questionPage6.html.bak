@@ -28,7 +28,7 @@
 		<div  class="question" class="question-answer">
 			<h2 id="question">You are the middle player and the setter has told you to do the next hit at first tempo , what does that mean?</h2>
 			
-			<h2 id="explanation">The first tempo is the faster hit, which means you will have to jump before the setter touches the ball and be at your max height just when the setter is touching it.</h2>
+			<h2 class="explanation" id="explanation">The first tempo is the faster hit, which means you will have to jump before the setter touches the ball and be at your max height just when the setter is touching it.</h2>
 		</div>
 		
 		<div class="answers">

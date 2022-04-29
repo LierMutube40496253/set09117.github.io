@@ -28,7 +28,7 @@
 		<div class="question-answer">
 			<h2 class="question" id="question">Suddenly a wrong pass has gone straight to the referee , what happens now?</h2>
 			
-			<h2 id="explanation">The referee is also an structure of the court , and if the ball hits an structure the point will be given to the other team </h2>
+			<h2 class="explanation" id="explanation">The referee is also an structure of the court , and if the ball hits an structure the point will be given to the other team </h2>
 		</div>
 		
 		<div class="answers">

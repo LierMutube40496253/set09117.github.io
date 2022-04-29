@@ -28,7 +28,7 @@
 		<div class="question-answer">
 			<h2 class="question" id="question"> You are the middle player , the other team's setter is going to set ( see the position on the image) . What should you do?</h2>
 			
-			<h2 id="explanation">The setter is going to set on a really awkward place to set. He is too far from the opposite , which is also in the backcourt. Also the middle player is behind and too far from him. Lastly, he is too far from the net to hit it on the second touch. That makes the outsider his unique option to set.</h2>
+			<h2 class="explanation" id="explanation">The setter is going to set on a really awkward place to set. He is too far from the opposite , which is also in the backcourt. Also the middle player is behind and too far from him. Lastly, he is too far from the net to hit it on the second touch. That makes the outsider his unique option to set.</h2>
 		</div>
 		
 		<div class="answers">

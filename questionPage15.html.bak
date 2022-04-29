@@ -28,7 +28,7 @@
 		<div class="question-answer">
 			<h2 class="question" id="question">Can the same player touch the ball right after touching its  block (hand).</h2>
 			
-			<h2 id="explanation">As the block doesn’t count as a real touch, the same player can pass it.</h2>
+			<h2  class="explanation" id="explanation">As the block doesn’t count as a real touch, the same player can pass it.</h2>
 		</div>
 		
 		<div class="answers">

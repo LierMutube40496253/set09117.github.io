@@ -28,7 +28,7 @@
 		<div class="question-answer">
 			<h2  class="question" id="question">Where should the ball be passed so the setter can set properly?</h2>
 			
-			<h2 class="explanation" id="explanation">This position is the perfect one for the setter to be able to set to all attacking options  without pushing too hard. Usually the hardest attackers on court are the middle and the opposite , that’s why this position is closer to those attackers. </h2>
+			<h2 class="explanation" class="explanation" id="explanation">This position is the perfect one for the setter to be able to set to all attacking options  without pushing too hard. Usually the hardest attackers on court are the middle and the opposite , that’s why this position is closer to those attackers. </h2>
 		</div>
 		
 		<div class="answers">

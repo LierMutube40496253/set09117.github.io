@@ -28,7 +28,7 @@
 		<div class="question-answer">
 			<h2 class="question" id="question">What is the proper way of hitting the ball when serving, so it can float and be more difficult to defend?</h2>
 			
-			<h2 id="explanation">Closing the hand and hitting the ball straight is the way to make it float</h2>
+			<h2 class="explanation" id="explanation">Closing the hand and hitting the ball straight is the way to make it float</h2>
 		</div>
 		
 		<div class="answers">

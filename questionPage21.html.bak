@@ -28,7 +28,7 @@
 		<div class="question-answer">
 			<h2 class="question" id="question">You are  playing as an outsider and you are serving (in 1), after serving which position do you have to go?  </h2>
 			
-			<h2 id="explanation">The libero defending position is  5, as he is going to defend the stronger cross hits. The setter has to be in a close position to his setting place ( next to 3), which is 1. So the last place left would be 6.</h2>
+			<h2 class="explanation" id="explanation">The libero defending position is  5, as he is going to defend the stronger cross hits. The setter has to be in a close position to his setting place ( next to 3), which is 1. So the last place left would be 6.</h2>
 		</div>
 		
 		<div class="answers">

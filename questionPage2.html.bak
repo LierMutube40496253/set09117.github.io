@@ -28,7 +28,7 @@
 		<div class="question-answer">
 			<h2 class="question" id="question">The best option is to keep serving the same player. If he has already missed twice is most likely to miss the next one so the most secure thing to do is keep serving him. </h2>
 			
-			<h2 id="explanation">Between 2 and 1 is where the setter is situated, if he takes the first ball he won’t be able to take the second one and in consequence the setter won’t be the one setting , which will affect a lot to their attack and we will be able to defend much easier.</h2>
+			<h2 class="explanation" id="explanation">Between 2 and 1 is where the setter is situated, if he takes the first ball he won’t be able to take the second one and in consequence the setter won’t be the one setting , which will affect a lot to their attack and we will be able to defend much easier.</h2>
 		</div>
 		
 		<div class="answers">

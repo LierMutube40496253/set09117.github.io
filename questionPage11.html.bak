@@ -28,7 +28,7 @@
 		<div class="question-answer">
 			<h2  class="question" id="question">The other team is serving , you are playing as an outsider, and you are in 3. Where should you go to pass?</h2>
 			
-			<h2 id="explanation">He has to be few steps in front of the player in 6 and on the right of the player on 4 </h2>
+			<h2 class="explanation" id="explanation">He has to be few steps in front of the player in 6 and on the right of the player on 4 </h2>
 		</div>
 		
 		<div class="answers">

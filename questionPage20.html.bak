@@ -28,7 +28,7 @@
 		<div class="question-answer">
 			<h2 class="question" id="question">Who has to set the ball if the setter has done the first touch?</h2>
 			
-			<h2 id="explanation">To keep all the possible attackers available the libero ( the one who can’t attack) is the one in charge of setting the ball </h2>
+			<h2 class="explanation" id="explanation">To keep all the possible attackers available the libero ( the one who can’t attack) is the one in charge of setting the ball </h2>
 		</div>
 		
 		<div class="answers">

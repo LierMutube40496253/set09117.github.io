@@ -28,7 +28,7 @@
 		<div class="question-answer">
 			<h2 class="question" id="question">The other team setter jumped just before  he was going to set like he was going to pass the ball to our side( second touch) . What should you do?  </h2>
 			
-			<h2 id="explanation">If you notice in the picture there are already three players on the front court side (3 attackers) which means the setter's starting position is at the backcourt , which also means that he can’t pass it to the other side on the second touch if he is on the frontcourt. So there is no need to block him .</h2>
+			<h2 class="explanation" id="explanation">If you notice in the picture there are already three players on the front court side (3 attackers) which means the setter's starting position is at the backcourt , which also means that he can’t pass it to the other side on the second touch if he is on the frontcourt. So there is no need to block him .</h2>
 		</div>
 		
 		<div class="answers">

@@ -28,7 +28,7 @@
 		<div class="question-answer">
 			<h2 class="question" id="question">The team has decided to block cross to the player who is attacking on the right side. But your teammate who is the one deciding  where to jump is blocking the line instead. What should you do?  (Hint: the set is not specially close to the net) </h2>
 			
-			<h2 id="explanation">The best thing to do is to always close the block. First to avoid blockouts, and second to not confuse the defense from the team. </h2>
+			<h2 class="explanation" id="explanation">The best thing to do is to always close the block. First to avoid blockouts, and second to not confuse the defense from the team. </h2>
 		</div>
 		
 		<div class="answers">

@@ -28,7 +28,7 @@
 		<div class="question-answer">
 			<h2 class="question" id="question">The team has decided to block cross. The other team's strongest hitter has made a tip to the middle of the court just behind the 3 meters line, which player has to pass that ball? (opposite is in back court) </h2>
 			
-			<h2 id="explanation">Taking into account we are blocking cross, the opposite is defending the line, which is too far from the ball. Also, taking into account its a strong hitter the position of  libero and the outsider should be almost at the back line . In consecuente the front court outsider should take that ball, even if this means we would lose one of our attack options. </h2>
+			<h2 class="explanation" id="explanation">Taking into account we are blocking cross, the opposite is defending the line, which is too far from the ball. Also, taking into account its a strong hitter the position of  libero and the outsider should be almost at the back line . In consecuente the front court outsider should take that ball, even if this means we would lose one of our attack options. </h2>
 		</div>
 		
 		<div class="answers">

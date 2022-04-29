@@ -28,7 +28,7 @@
 		<div class="question-answer">
 			<h2  class="question" id="question">You are the middle player and you have just missed the serve.What should you do now </h2>
 			
-			<h2 id="explanation">The middle player never passes( it’s allowed but doesn’t make sense)  so as soon as they stop serving they should switch with the libero. </h2>
+			<h2 class="explanation" id="explanation">The middle player never passes( it’s allowed but doesn’t make sense)  so as soon as they stop serving they should switch with the libero. </h2>
 		</div>
 		
 		<div class="answers">

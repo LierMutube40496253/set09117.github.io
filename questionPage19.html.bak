@@ -28,7 +28,7 @@
 		<div class="question-answer">
 			<h2 class="question" id="question">How are you supposed to pass a float serve? </h2>
 			
-			<h2 id="explanation">If you wait to pass a float serve with your forearm it will be really difficult to predict where is it going, so the best thing to do is pass it before it gets close to the floor, this means passing it with the fingertips.</h2>
+			<h2 class="explanation" id="explanation">If you wait to pass a float serve with your forearm it will be really difficult to predict where is it going, so the best thing to do is pass it before it gets close to the floor, this means passing it with the fingertips.</h2>
 		</div>
 		
 		<div class="answers">
