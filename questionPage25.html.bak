@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+
+
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="questionPage.css" type ="text/css">
+		<link href='https://fonts.googleapis.com/css?family=Orbitron' rel='stylesheet' type='text/css'>
+
+		<title>The Volleyball Quiz -- Lier Martinez de Morentin -- 40496253</title>
+	</head>
+	
+	
+	<body>
+	
+		<!--- 
+		<audio id= "audio1" controls="controls" onloadeddata="setHalfVolume()">
+			<source src="audios\background.mp3"  type="audio/mp3">
+		</audio>
+		--->
+		
+		
+		<div class="situation">
+			<img src="images/questionPage/campo.png" class="situation-image">
+		</div>
+		
+		
+		<div class="question-answer">
+			<h2 class="question" id="question">How do the passers have to positionate when the other team is serving?</h2>
+			
+			<h2 id="explanation">They should all be all on the same line , but to respect the rotations , the player that is on front court ( player passing  in 5 or in 1)  has to be closer to the net than the other two players that are in backcourt.</h2>
+		</div>
+		
+		<div class="answers">
+			<div class="answer1" id="answer1">
+			
+				
+				<h3 class = "answer1-text">J Player in 6 two steps back from the others and player passing in 5 one foreword from the one in 1 </h3>
+				
+			</div>
+			
+			<div class="answer2" id="answer2">
+			
+				
+				<h3 class = "answer2-text">All on the on the same line </h3>
+				
+			</div>
+			
+			
+			<div class="answer3" id="answer3">
+				
+				
+				<h3 class = "answer3-text"> All of them on the same line , besides the player passing in 5  or the player passing in 1, that should do an small step forward</h3>
+				
+			</div>
+			
+			<div class="answer4" id="answer4">
+			
+				
+				<h3 class = "answer4-text">Player in 5 an step forward </h3>
+				
+			</div>
+		</div>
+		
+		<!--- 
+		<p class= "answer1-letter">A</p>
+		<p class= "answer2-letter">B</p>
+		<p class= "answer3-letter">C</p>
+		<p class= "answer4-letter">D</p>
+		
+		-->
+
+		<div class="timer">
+			<img src="images/questionPage/ball.jpg" class="timer-image">
+			<div class="timer-num" id="timer-num"></div>
+		</div>
+
+		<a href="mainPage.html"><button type="button" class="home-button" id="home-button">HOME</button></a>
+		
+		<a><button type="button" class="report-button" id="report-button">REPORT</button></a>
+		
+	
+		
+		<div class="reportPage" id="reportPage">
+			
+			<div class="email" id="email">
+				<input type="text" class="email-name" id="email-name"></input>
+			</div>
+			
+			<div class= "reportReason" id="reportReason">
+			
+				<textarea type="text" class="reportReason-text" id="reportReason-text"></textarea>
+				
+			</div>
+			
+			<div class= "send-X" id="send-X">
+			
+				<button type="send" class="send-button" id="send-button">SEND</button>
+				
+				<button type="X" class="X" id="X">X</button>
+				
+			</div>
+			
+			
+			
+		
+		</div>
+		
+		
+		<div class= "scoreboard">
+			<div class="first-num" id="first-num"></div>
+			<div class ="colon">:</div>
+			<div class="second-num" id="second-num"></div>
+		</div>
+		
+		<!--- 
+		<p class="home-text">HOME</p>
+		
+		<p class="guest-text">GUEST</p>
+		-->
+		
+		<a><button type="button" class="next-button" id="next-button">NEXT QUESTION</button></a>
+		
+		<script src="questionPage3.js"></script>
+		
+	</body>
+	
+</html>
