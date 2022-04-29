@@ -13,19 +13,18 @@
 		<header>You have lost the game. But not worries, just keep trying and imporving!!</header>
 	
 	
-		<h1>LOSER</h1>
+		<h1>LOOSER</h1>
 		
 		
 		
 		
 		<div class= "scoreboard">
-			<div class="first-num" id="first-num"></div>
+			<div class="first-num">25</div>
 			<div class ="colon">:</div>
-			<div class="second-num" id="second-num"></div>
+			<div class="second-num">2</div>
 
 		</div>
 		
-		<!--
 		<p class="home-text">HOME</p>
 		
 		<p class="guest-text">GUEST</p>
@@ -33,7 +32,7 @@
 		<a href="mainPage.html"><button class="restart">RESTART</button></a>
 		
 		<script src="winner-loser.js"></script>
-		--->
+				
 	
 	</body>
 	

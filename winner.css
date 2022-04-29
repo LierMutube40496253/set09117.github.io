@@ -10,7 +10,8 @@ html {
 
 body{
 /*page design*/
-	background-color: #d8dbe2;
+	background-image:url("images/winner-looser-page/winner.gif"); 
+	background-size: 100%;
 	min-height: 100% ;
 }
 

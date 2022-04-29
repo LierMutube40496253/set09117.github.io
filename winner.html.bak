@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<link rel="stylesheet" href="winner_looser.css" type ="text/css">
+		<link rel="stylesheet" href="winner.css" type ="text/css">
 		<link href='https://fonts.googleapis.com/css?family=Orbitron' rel='stylesheet' type='text/css'>
 
 		<title>The Volleyball Quiz -- Lier Martinez de Morentin -- 40496253</title>
@@ -19,9 +19,9 @@
 		
 		
 		<div class= "scoreboard">
-			<div class="first-num">25</div>
+			<div class="first-num"></div>
 			<div class ="colon">:</div>
-			<div class="second-num">2</div>
+			<div class="second-num"></div>
 
 		</div>
 		
@@ -29,7 +29,9 @@
 		
 		<p class="guest-text">GUEST</p>
 		
-		<a href="mainPage.html"><button>RESTART</button></a>
+		<a href="mainPage.html"><button class="restart">RESTART</button></a>
+		
+		<script src="winner-loser.js"></script>
 				
 	
 	</body>

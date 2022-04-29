@@ -10,7 +10,8 @@ html {
 
 body{
 /*page design*/
-	background-color: #d8dbe2;
+	background-image:url('myImage.gif'); 
+	background-repeat:repeat;
 	min-height: 100% ;
 }
 
