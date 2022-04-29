@@ -5,7 +5,7 @@
 }
 
 html{
-	height: 100%;
+
  }
 
 
@@ -29,13 +29,14 @@ body{
   border: 3px solid black;
   padding: 10px;
   background-color: #58a4b0;
+  
 	
 }
 
 .situation-image{
 /*box design*/
-  width: 350px;
-  height: 170px;
+position: relative
+height = "100%";
 }
 
 
@@ -61,7 +62,7 @@ body{
 }
 
 .explanation{
-  color: white;
+  color: green;
   font-size: 17px;
   font-family: Arial, Helvetica, sans-serif;
 }
